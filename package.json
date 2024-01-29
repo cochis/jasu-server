@@ -1,7 +1,7 @@
 {
-  "name": "Loop-server",
+  "name": "Jasu-server",
   "version": "1.0.0",
-  "description": "Loop",
+  "description": "Jasu",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
