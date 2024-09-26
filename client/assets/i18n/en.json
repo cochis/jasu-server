@@ -1,0 +1,253 @@
+{
+    "navbar": {
+        "home": "Home",
+        "aboutUs": "About us",
+        "catalog": "Catalog",
+        "blog": "Blog",
+        "contactUs": "Contact us",
+        "logIn": "Log in",
+        "logOut": "Log out",
+        "search": "Search...",
+        "hello": "Hello",
+        "calculator": "Calculator"
+    },
+    "menuCatalog": {
+        "fruit": "Fruit",
+        "process": "Process"
+    },
+    "headerBanner": {
+        "title": "BRINGING YOU THE",
+        "subtitle": "FRESH FROM THE FRUIT",
+        "cpo": "cpo",
+        "concentrate": "concentrate",
+        "oil": "oil",
+        "terpenes": "terpenes",
+        "puree": "puree",
+        "clarified": "clarified",
+        "nfc": "nfc",
+        "pulp": "pulp",
+        "dLimonene": "d-limonene",
+        "decanal": "decanal",
+        "distilledOil": "distilled oil"
+    },
+    "topTen": {
+        "title": "OUR TOP TEN"
+    },
+    "availableNow": {
+        "title": "AVAILABLE NOW",
+        "juices": "Juices",
+        "oils": "Oils"
+    },
+    "certifications": {
+        "title": "Certifications"
+    },
+    "contactUs": {
+        "title": "Do you have any questions? Contact us!",
+        "fullName": "Full name",
+        "email": "Your email",
+        "phone": "Phone",
+        "area": "Area",
+        "sales": "Sales",
+        "procurement": "Procurement",
+        "hr": "HR",
+        "marketing": "Marketing",
+        "quality": "Quality",
+        "other": "Other",
+        "company": "Company name",
+        "message": "Reason for return / notes",
+        "send": "Contact us",
+        "messages": {
+            "success": "We have received your message and one of our agents will be in touch with you shortly.",
+            "required": {
+                "fullName": "The full name is required to continue.",
+                "email": "The email is required to continue.",
+                "phone": "The phone is required to continue.",
+                "area": "The area is required to continue.",
+                "company": "The company name is required to continue.",
+                "message": "The message is required to continue."
+            },
+            "format": {
+                "email": "The email should has a valid structure."
+            }
+        },
+        "title2": "CONTACT US",
+        "allRequired": "All fields are required*",
+        "send2": "SEND"
+    },
+    "footer": {
+        "usa": "USA",
+        "europe": "Europe",
+        "mexico": "Mexico"
+    },
+    "catalog": {
+        "titleFruits": "All fruits",
+        "titleProcess": "All processes"
+    },
+    "filters": {
+        "fruits": "FRUITS",
+        "processes": "PROCESSES",
+        "deciduous": "Deciduous",
+        "tropical": "Tropical",
+        "citrus": "Citrus",
+        "sortAsc": "Sort by A-Z",
+        "sortDesc": "Sort by Z-A",
+        "all": "All",
+        "juices": "Juices",
+        "oil": "Oil"
+    },
+    "signIn": {
+        "title": "LOG IN",
+        "subtitle": "All fields are required*",
+        "email": "Email *",
+        "password": "Password *",
+        "forgotPassword": "Forgot your password?",
+        "noAccount": "Don´t have an account?",
+        "signUp": "Sign up",
+        "messages": {
+            "required": {
+                "email": "The email is required.",
+                "password": "The password is required."
+            },
+            "format": {
+                "email": "The email should has a valid structure."
+            }
+        }
+    },
+    "signUp": {
+        "title": "SIGN UP",
+        "subtitle": "All fields are required*",
+        "fullName": "First name *",
+        "lastName": "Last name *",
+        "email": "Email *",
+        "company": "Company name *",
+        "password": "Password *",
+        "confirmPassword": "Confirm password *",
+        "signUpButton": "SIGN UP",
+        "alreadySignUp": "Already sign up?",
+        "signIn": "Log In",
+        "messages": {
+            "success": "Your account has been successfully created. Please check your email to verify your account before signing in.",
+            "required": {
+                "firstName": "The first name is required.",
+                "lastName": "The last name is required.",
+                "email": "The email is required.",
+                "company": "The company name is required.",
+                "password": "The password is required.",
+                "confirmPassword": "The password confirmation is required.",
+                "captcha": "Before proceeding, please complete the captcha verification."
+            },
+            "format": {
+                "email": "The email should has a valid structure."
+            },
+            "match": {
+                "password": "The password confirmation does not match."
+            }
+        }
+    },
+    "resetPassword": {
+        "title": "RECOVER PASSWORD",
+        "subtitle": "Password lost? Please enter your email",
+        "email": "Email *",
+        "resetButton": "RESET PASSWORD",
+        "messages": {
+            "required": {
+                "email": "The email is required.",
+                "captcha": "Before proceeding, please complete the captcha verification."
+            },
+            "format": {
+                "email": "The email should has a valid structure."
+            }
+        }
+    },
+    "verify": {
+        "title": "This account has been successfully verified.",
+        "subtitle": "Now the user can proceed to sign in and access all Jasu products.",
+        "signIn": "Sign In Here"
+    },
+    "changePassword": {
+        "title": "CHANGE PASSWORD",
+        "password": "Password *",
+        "confirmPassword": "Password confirmation *",
+        "changeButton": "CHANGE PASSWORD",
+        "messages": {
+            "required": {
+                "password": "The password is required.",
+                "confirmPassword": "The password confirmation is required.",
+                "captcha": "Before proceeding, please complete the captcha verification."
+            },
+            "match": {
+                "password": "The password confirmation does not match."
+            }
+        }
+    },
+    "backend": {
+        "userController": {
+            "alreadyRegistered": "It appears that this email address is already registered. Please proceed to sign in or use a different email.",
+            "emailNotExists": "This email address does not exist in our records. Please check the email address or sign up to create a new account.",
+            "reviewRequest": "We are reviewing your request, you will receive an email shortly.",
+            "incorrectPassword": "Oops! It looks like the password you entered is incorrect. Please verify and retry.",
+            "userNotExists": "This user does not exist in our records. Please check the email address.",
+            "passwordChanged": "Your password has been changed successfully.",
+            "instructionsPassword": "Instructions to reset your password will be sent to you via email shortly."
+        }
+    },
+    "aboutUs": {
+        "welcome": "WELCOME TO",
+        "description": "We are a leading provider of fruits and their derivatives, we are specialized in citrus oils, D'limonene, Terpene, juices, and fruit purees for the food, drinks, fragrances, and chemistry industries.",
+        "findButton": "FIND OUT MORE",
+        "jasuWorks": "HOW JASU WORKS?",
+        "text1": "Our years of experience in the market have allowed us to create a wide network of citrics producers and their derivatives all around the world, from producers to manufacturers.",
+        "text2": "In addition we have the contacts and the transportation network to freight forward from the producer to your company’s facilities.",
+        "serviceTitle": "LEARN ABOUT OUR SERVICES",
+        "customer": "Customer Service",
+        "customerDesc": "Our team is dedicated to providing timely follow-up, providing solutions and resolving the questions and doubts of our clients.",
+        "financial": "Financial Services",
+        "financialDesc": "We secure the transaction by covering both parties: Suppliers: Purchase order financing and credit protection. Customers: Supply chain financing.",
+        "delivery": "Freight forwarding",
+        "deliveryDesc": "We are suppliers with global reach. Our agents coordinate the logistics’ service from end to end."
+    },
+    "fruitDetail": {
+        "allProducts": "All products",
+        "processFruit": "Processes with this fruit",
+        "availableNowTitle": "These products are currently available for shipping",
+        "presentation": "PRESENTATION",
+        "availavility": "AVAILABILITY",
+        "price": "PRICE",
+        "mapSeasonTitle": "Plan your order according to the harvest season",
+        "titleTooltip": "Available now"
+    },
+    "contactUsBanner": {
+        "title": "Contact us to get more information",
+        "button": "Contact us"
+    },
+    "blog": {
+        "title": "BLOG",
+        "description": "stay up to date with the latest news from the world of derivatives",
+        "search": "Search...",
+        "noResults": "No results found. Please try searching again."
+    },
+    "calculator": {
+        "title": "Conversion calculator",
+        "description": "Aute laboris velit eu mollit proident tempor pariatur minim amet amet incididunt quis ad. Do fugiat ad elit proident minim magna aliquip ex est consectetur ea aute. Ex magna sint labore pariatur sunt. Nisi nostrud irure eu exercitation fugiat officia est commodo nulla nostrud. Excepteur cupidatat excepteur ut consequat elit magna aliquip cupidatat voluptate voluptate minim. Minim consequat ipsum reprehenderit ut. Id aliquip anim nostrud nulla laboris eiusmod irure ipsum deserunt excepteur anim est qui.",
+        "singleStrength": "Single Strength",
+        "brixStarting": "Brix of Starting Concentrate",
+        "gramsConcentrate": "Grams of Concentrate",
+        "finalBrix": "Final Brix",
+        "legend1": "Therefore you need to add water to the grams of concentrate weighed out until the scale reads:",
+        "recalculate": "RE-CALCULATE",
+        "legend2": "Always check your single strength brix on a refractometer. You may  need to adjust slightly with either juice concentrate or water to reach desired level.",
+        "priceGallon": "Price per Gallon",
+        "brix": "Brix",
+        "priceKilogram": "Price per Kilogram",
+        "pricePound": "Price per Pound",
+        "calculate": "CALCULATE"
+    },
+    "process": {
+        "allProducts": "All products",
+        "fruitProcess": "Fruits with this process",
+        "shippingTitle": "These products are currently available for shipping",
+        "fruit": "FRUIT",
+        "availavility": "AVAILABILITY",
+        "price": "PRICE"
+    }
+}

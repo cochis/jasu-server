@@ -1,0 +1,53 @@
+[
+  {
+    "_id": { "$oid": "66b4ead3942142771b2dd23c" },
+    "code": "P-08",
+    "name": "Lemon",
+    "description": "The distinctive astringent flavour of the fruit, either fresh or preserved, is used to enhance many dishes worldwide. Lemon is also rich in vitamin C and contains smaller amounts of the B vitamins. Among the important by-products of lemons are lemon oil used in perfumes and soaps. Flavouring extract, is an important industry in many parts of the world. Citric acid is used in beverage manufacturing. Pectin has long been an important material for making fruit jellies; it has also been used in medicine in the treatment of intestinal disorders, as an antihemorrhagic, as a plasma extender, and for other purposes.",
+    "name_Es": "Limón",
+    "description_Es": "El sabor astringente distintivo de la fruta, ya sea fresco o conservado, se usa para mejorar muchos platos en todo el mundo. El limón también es rico en vitamina C y contiene cantidades más pequeñas de las vitaminas B. Entre los importantes subproductos de los limones se encuentran el aceite de limón utilizado en perfumes y jabones. El extracto de saborización es una industria importante en muchas partes del mundo. El ácido cítrico se usa en la fabricación de bebidas. La pectina ha sido durante mucho tiempo un material importante para hacer jaleas de frutas; También se ha utilizado en medicina en el tratamiento de los trastornos intestinales, como antihemorrágico, como extensor de plasma y para otros fines.",
+    "image": "/assets/img/fruit2.png",
+    "topTen": true,
+    "countries": "Mexico, South Africa, Argentina, USA",
+    "category": "Citrus"
+  },
+
+  {
+    "_id": { "$oid": "66b4ead3942142771b2dd23b" },
+    "code": "P-18",
+    "name": "Orange",
+    "description": "An orange has a tough shiny orange skin that holds acid in outside layer. Inside, the fruit is divided into ‘segments’, which have thin tough skins that hold together many little sections with juice inside.The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. Oranges are an important food source in many parts of the world for several reasons. They are a commonly available source of vitamin C and are used for a wide variety of purposes including cosmetic as well as medicinal.",
+    "name_Es": "Naranja",
+    "description_Es": "Una naranja tiene una piel naranja brillante y dura que contiene ácido en una capa externa. En el interior, la fruta se divide en ‘segmentos’, que tienen pieles finas y resistentes que mantienen juntas muchas secciones pequeñas con jugo en el interior. La fruta del naranja se puede comer fresco o procesarse por su jugo o cáscara fragante. Las naranjas son una fuente de alimento importante en muchas partes del mundo por varias razones. Son una fuente comúnmente disponible de vitamina C y se utilizan para una amplia variedad de propósitos, incluidos los cosméticos y los medicinales.",
+    "image": "/assets/img/fruit1.png",
+    "topTen": true,
+    "countries": "Mexico, Brazil, Greece, Italy, Spain",
+    "category": "Citrus"
+  },
+
+  {
+    "_id": { "$oid": "66b4ead3942142771b2dd23a" },
+    "code": "P-24",
+    "name": "Pineapple",
+    "description": "Pineapples usually have an oval shape protected by a hard skin and scales, with an upper end with showy green leaves like a crown. Its pulp is yellow, barely fibrous, sweet and acidic, and very fragrant. When the pineapple is ripe its pulp is firm but flexible, the leaves can be pulled off with a strong tug and the aroma is more intense at the bottom. It is consumed fresh and preserved. It is commonly used in the West for desserts and salads, but increasingly as a sweet ingredient in Eastern food preparations, and numerous industrialized by-products such as tropical juices, yogurts, ice creams, and jams are also produced.",
+    "name_Es": "Piña",
+    "description_Es": "Las piñas suelen tener una forma ovalada protegida por una piel dura y escamas, con un extremo superior con vistosas hojas verdes a modo de corona. Su pulpa es amarilla, apenas fibrosa, dulce y ácida, y muy fragante. Cuando la piña está madura su pulpa es firme pero flexible, las hojas se pueden arrancar con un fuerte tirón y el aroma es más intenso en el fondo. Se consume fresco y en conserva. Se usa comúnmente en Occidente para postres y ensaladas, pero cada vez más como un ingrediente dulce en las preparaciones de alimentos orientales, y también se producen numerosos subproductos industrializados como jugos tropicales, yogures, helados y mermeladas.",
+    "image": "/assets/img/fruit3.png",
+    "topTen": true,
+    "countries": "Guatemala, Ecuador, Costa Rica, Mexico",
+    "category": "Tropical"
+  },
+
+  {
+    "_id": { "$oid": "66b4ead3942142771b2dd23d" },
+    "code": "P-13",
+    "name": "Mandarin Red",
+    "description": "Red mandarin is obtained from the peel of the fruit when it is fully ripe, and has a red or orange color. Red mandarin has a sweet, spicy, warm aroma.",
+    "name_Es": "Mandarina Roja",
+    "description_Es": "El nombre de la mandarina roja se obtiene por la cáscara de la fruta cuando está completamente madura y tiene un color rojo o naranja. La mandarina roja tiene un aroma dulce, especiado y cálido.",
+    "image": "/assets/img/fruit4.png",
+    "topTen": true,
+    "countries": "Italy, Egypt, Mexico",
+    "category": "Citrus"
+  }
+]

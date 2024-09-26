@@ -1,0 +1,253 @@
+{
+    "navbar": {
+        "home": "Inicio",
+        "aboutUs": "Nosotros",
+        "catalog": "Catálogo",
+        "blog": "Blog",
+        "contactUs": "Contacto",
+        "logIn": "Iniciar sesión",
+        "logOut": "Cerrar sesión",
+        "search": "Buscar...",
+        "hello": "Hola",
+        "calculator": "Calculadora"
+    },
+    "menuCatalog": {
+        "fruit": "Fruta",
+        "process": "Proceso"
+    },
+    "headerBanner": {
+        "title": "Trayendoles",
+        "subtitle": "fresc@ de la fruta",
+        "cpo": "cpo",
+        "concentrate": "concentrado",
+        "oil": "aceite",
+        "terpenes": "terpenos",
+        "puree": "pure",
+        "clarified": "clarificado",
+        "nfc": "nfc",
+        "pulp": "pulpa",
+        "dLimonene": "d-limonene",
+        "decanal": "decanal",
+        "distilledOil": "aceite destilado"
+    },
+    "topTen": {
+        "title": "NUESTROS DIEZ MEJORES"
+    },
+    "availableNow": {
+        "title": "Disponible Ahora",
+        "juices": "Jugos",
+        "oils": "Aceites"
+    },
+    "certifications": {
+        "title": "Certificaciones"
+    },
+    "contactUs": {
+        "title": "¿Tienes alguna pregunta? ¡Contáctanos!",
+        "fullName": "Nombre completo",
+        "email": "Correo electrónico",
+        "phone": "Teléfono",
+        "area": "Área",
+        "sales": "Ventas",
+        "procurement": "Obtención",
+        "hr": "RH",
+        "marketing": "Mercadotecnia",
+        "quality": "Calidad",
+        "other": "Otro",
+        "company": "Compañía",
+        "message": "Motivo de consulta / notas",
+        "send": "Contactanos",
+        "messages": {
+            "success": "Hemos recibido su mensaje y uno de nuestros agentes se comunicará con usted en breve.",
+            "required": {
+                "fullName": "Se requiere el nombre completo para continuar.",
+                "email": "El correo electrónico es necesario para continuar.",
+                "phone": "Se requiere el teléfono para continuar.",
+                "area": "Se requiere el área para continuar.",
+                "company": "El nombre de la empresa es necesario para continuar.",
+                "message": "El mensaje es necesario para continuar."
+            },
+            "format": {
+                "email": "El correo electrónico debe tener una estructura válida."
+            }
+        },
+        "title2": "CONTACTANOS",
+        "allRequired": "Todos los campos son requeridos*",
+        "send2": "ENVIAR"
+    },
+    "footer": {
+        "usa": "EUA",
+        "europe": "Europa",
+        "mexico": "México"
+    },
+    "catalog": {
+        "titleFruits": "Todas las frutas",
+        "titleProcess": "Todos los procesos"
+    },
+    "filters": {
+        "fruits": "Frutas",
+        "processes": "Procesos",
+        "deciduous": "Deciduous",
+        "tropical": "Tropical",
+        "citrus": "Cítrica",
+        "sortAsc": "Ordenar de la A-Z",
+        "sortDesc": "Ordenar de la Z-A",
+        "all": "Todo",
+        "juices": "Jugos",
+        "oil": "Aceites"
+    },
+    "signIn": {
+        "title": "Iniciar sesión",
+        "subtitle": "Todos los campos son requeridos*",
+        "email": "Correo electrónico *",
+        "password": "Contraseña *",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "noAccount": "¿Aún no tienes una cuenta?",
+        "signUp": "Registrate aquí",
+        "messages": {
+            "required": {
+                "email": "El correo electrónico es requerido.",
+                "password": "La contraseña es requerida."
+            },
+            "format": {
+                "email": "El correo electrónico debe de tener un formato valido."
+            }
+        }
+    },
+    "signUp": {
+        "title": "Registro",
+        "subtitle": "Todos los campos son requeridos*",
+        "fullName": "Nombre(s) *",
+        "lastName": "Apellido(s) *",
+        "email": "Correo electrónico *",
+        "company": "Compañía *",
+        "password": "Contraseña *",
+        "confirmPassword": "Confirmar contraseña *",
+        "signUpButton": "REGISTRARME",
+        "alreadySignUp": "¿Ya estas registrado?",
+        "signIn": "Inicia sesión",
+        "messages": {
+            "success": "Su cuenta ha sido creada exitosamente. Por favor revise su correo electrónico para verificar su cuenta antes de iniciar sesión.",
+            "required": {
+                "firstName": "El nombre es requerido.",
+                "lastName": "El apellido es requerido.",
+                "email": "El correo electrónico es requerido.",
+                "company": "El nombre de la empresa es requerido.",
+                "password": "La contraseña es requerida.",
+                "confirmPassword": "La confirmación de la contraseña es requerida.",
+                "captcha": "Antes de continuar, complete la verificación del captcha."
+            },
+            "format": {
+                "email": "El correo electrónico debe tener una estructura válida."
+            },
+            "match": {
+                "password": "La confirmación de la contraseña no coincide."
+            }
+        }
+    },
+    "resetPassword": {
+        "title": "REINICIO DE CONTRASEÑA",
+        "subtitle": "¿Olvidaste tu contraseña? Por favor ingrese su correo electrónico",
+        "email": "Correo electrónico *",
+        "resetButton": "REINICIAR CONTRASEÑA",
+        "messages": {
+            "required": {
+                "email": "El correo electrónico es requerido.",
+                "captcha": "Antes de continuar, complete la verificación del captcha."
+            },
+            "format": {
+                "email": "El correo electrónico debe tener una estructura válida."
+            }
+        }
+    },
+    "verify": {
+        "title": "Esta cuenta ha sido verificada exitosamente.",
+        "subtitle": "Ahora puedes proceder a iniciar sesión y acceder a todos los productos Jasu.",
+        "signIn": "Iniciar sesión aquí"
+    },
+    "changePassword": {
+        "title": "CAMBIAR CONTRASEÑA",
+        "password": "Contraseña *",
+        "confirmPassword": "Confirmar contraseña *",
+        "changeButton": "CAMBIAR CONTRASEÑA",
+        "messages": {
+            "required": {
+                "password": "La contraseña es requerida.",
+                "confirmPassword": "La confirmación de la contraseña es requerida.",
+                "captcha": "Antes de continuar, complete la verificación del captcha."
+            },
+            "match": {
+                "password": "La confirmación de la contraseña no coincide."
+            }
+        }
+    },
+    "backend": {
+        "userController": {
+            "alreadyRegistered": "Parece que esta dirección de correo electrónico ya está registrada. Proceda a iniciar sesión o utilice un correo electrónico diferente.",
+            "emailNotExists": "Esta dirección de correo electrónico no existe en nuestros registros. Verifique la dirección de correo electrónico o regístrese para crear una nueva cuenta.",
+            "reviewRequest": "Estamos revisando tu solicitud, recibirás un correo electrónico en breve.",
+            "incorrectPassword": "¡Ups! Parece que la contraseña que ingresó es incorrecta. Por favor verifique y vuelva a intentarlo.",
+            "userNotExists": "Este usuario no existe en nuestros registros. Por favor verifique la dirección de correo electrónico.",
+            "passwordChanged": "Su contraseña ha sido cambiada exitosamente.",
+            "instructionsPassword": "Las instrucciones para restablecer su contraseña se le enviarán por correo electrónico en breve."
+        }
+    },
+    "aboutUs": {
+        "welcome": "BIENVENIDO A",
+        "description": "Somos un proveedor líder de frutas y sus derivados, estamos especializados en aceites cítricos, D'limoneno, terpenos, jugos y purés de frutas para la industria de alimentos, bebidas, fragancias y química.",
+        "findButton": "DESCUBRE MÁS",
+        "jasuWorks": "¿CÓMO FUNCIONA JASU?",
+        "text1": "Nuestros años de experiencia en el mercado nos han permitido crear una amplia red de productores de cítricos y sus derivados en todo el mundo, desde productores hasta fabricantes.",
+        "text2": "Además contamos con los contactos y la red de transporte para realizar el flete desde el productor hasta las instalaciones de su empresa.",
+        "serviceTitle": "CONOCE NUESTROS SERVICIOS",
+        "customer": "Servicio al cliente",
+        "customerDesc": "Nuestro equipo está dedicado a dar seguimiento oportuno, brindar soluciones y resolver las preguntas y dudas de nuestros clientes.",
+        "financial": "Servicios financieros",
+        "financialDesc": "Aseguramos la transacción cubriendo a ambas partes: Proveedores: Financiamiento de órdenes de compra y protección de crédito. Clientes: Financiamiento de la cadena de suministro.",
+        "delivery": "Transporte de Carga",
+        "deliveryDesc": "Somos proveedores con alcance global. Nuestros agentes coordinan el servicio logístico de punta a punta."
+    },
+    "fruitDetail": {
+        "allProducts": "Todos los productos",
+        "processFruit": "Procesos con esta fruta",
+        "availableNowTitle": "Estos productos están actualmente disponibles para envío.",
+        "presentation": "PRESENTACIÓN",
+        "availavility": "DISPONIBILIDAD",
+        "price": "PRECIO",
+        "mapSeasonTitle": "Planifica tu pedido según la temporada de cosecha",
+        "titleTooltip": "Disponible ahora"
+    },
+    "contactUsBanner": {
+        "title": "Contáctenos para obtener más información",
+        "button": "Contáctanos"
+    },
+    "blog": {
+        "title": "BLOG",
+        "description": "manténgase al día con las últimas noticias del mundo de los derivados",
+        "search": "Buscar...",
+        "noResults": "No se encontraron resultados. Por favor intenta buscar de nuevo."
+    },
+    "calculator": {
+        "title": "Calculadora de conversión",
+        "description": "Ea nisi amet voluptate ea mollit duis. Dolore est voluptate nulla cupidatat ea labore ullamco elit ut aliquip irure ut mollit occaecat. Magna incididunt aute deserunt consectetur do occaecat esse Lorem eu id voluptate.",
+        "singleStrength": "Fuerza única",
+        "brixStarting": "Brix del concentrado inicial",
+        "gramsConcentrate": "Gramos de concentrado",
+        "finalBrix": "Brix finales",
+        "legend1": "Por lo tanto es necesario agregar agua a los gramos de concentrado pesados ​​hasta que la báscula indique:",
+        "recalculate": "RECALCULAR",
+        "legend2": "Siempre verifique su intensidad única Brix en un refractómetro. Es posible que deba ajustar ligeramente con jugo concentrado o agua para alcanzar el nivel deseado.",
+        "priceGallon": "Precio por galón",
+        "brix": "Brix",
+        "priceKilogram": "Precio por kilogramo",
+        "pricePound": "Precio por libra",
+        "calculate": "CALCULAR"
+    },
+    "process": {
+        "allProducts": "Todos los productos",
+        "fruitProcess": "Frutas con este proceso.",
+        "shippingTitle": "Estos productos están actualmente disponibles para envío.",
+        "fruit": "FRUTA",
+        "availavility": "DISPONIBILIDAD",
+        "price": "PRECIO"
+    }
+}

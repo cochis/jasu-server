@@ -1,0 +1,67 @@
+[
+    {
+        "_id": { "$oid": "66b4ead3942142771b2dd23a" },
+        "code": "PR-01",
+        "name": "Clarified",
+        "name_Es": "Jugo Clarificado",
+        "description": "The clarified juice is processed in such a way that insoluble solids are removed while soluble solids remain. This term applies to the liquid that has been completely or partially extracted from fruit peelings, shells, or cores as well as from the fruit's flesh or components. The liquid that has been clarified, may be further refined or concentrated.",
+        "description_Es": "El jugo clarificado se procesa de tal manera que se eliminan los sólidos insolubles mientras que quedan los sólidos solubles. Este término se aplica al líquido que ha sido extraído total o parcialmente de la cáscara, cáscara o corazón de la fruta, así como de la pulpa o componentes de la fruta. El líquido que ha sido clarificado puede refinarse o concentrarse aún más.",
+        "imageUrl": "/assets/img/clarified.png",
+        "category": "Juice",
+        "subCategory": "",
+        "subCategory_Es": "",
+        "color": "red"
+    },
+    {
+        "_id": { "$oid": "66b4ead3942142771b2dd23b" },
+        "code": "PR-02",
+        "name": "Concentrate",
+        "name_Es": "Concentrado",
+        "description": "Concentrates are obtained by removing liquids from natural fruit nectars using a heat and pressure process. Depending on the Brix of each fruit you can obtain up to 7 times more concentration than simply extracting the juice or puree from the fruit. This process ensures that the concentration occurs at lower temperatures, resulting in concentrates of exceptional sensory quality.",
+        "description_Es": "Los concentrados se obtienen eliminando los líquidos de los néctares de frutas naturales mediante un proceso de calor y presión. Dependiendo de los Brix de cada fruta se puede obtener hasta 7 veces más concentración que simplemente extrayendo el jugo o puré de la fruta. Este proceso asegura que la concentración se produzca a temperaturas más bajas, dando como resultado concentrados de una calidad sensorial excepcional.",
+        "imageUrl": "/assets/img/concentrate.png",
+        "category": "Juice",
+        "subCategory": "",
+        "subCategory_Es": "",
+        "color": "red"
+    },
+    {
+        "_id": { "$oid": "66b4ead3942142771b2dd23c" },
+        "code": "PR-10",
+        "name": "Decanal",
+        "name_Es": "Decanal",
+        "description": "An organic compound classified as an aldehyde that occurs naturally in citrus fruits.",
+        "description_Es": "El Decanal es un compuesto orgánico se clasifica como un aldehído que ocurre naturalmente en las frutas cítricas.",
+        "imageUrl": "/assets/img/decanal.png",
+        "category": "Oil",
+        "subCategory": "",
+        "subCategory_Es": "",
+        "color": "green"
+    },
+    {
+        "_id": { "$oid": "66b4ead3942142771b2dd23d" },
+        "code": "PR-04",
+        "name": "CPO",
+        "name_Es": "Aceite Prensado en Frío",
+        "description": "Cold-pressed Type A oil is obtained by centrifuging the juice-oil emulsion from pressing the whole fruit in a screw press. It has a fresh, citrus-type scent that resembles lime juice and a color that can be amber or light green. This product provides a typical lime taste which is free of strange flavors.",
+        "description_Es": "CPO Tipo A es un aceite prensado en frío derivado de la cáscara de los frutos de Citrus aurantifolia. Este aceite huele fuertemente a lima fresca, con una nota alta dulce, agria y aldehídica. Se permite que el aceite de lima interactúe con los fluidos de la fruta durante todo el proceso de extracción, creando olores considerablemente más ácidos y jugosos.",
+        "imageUrl": "/assets/img/cpo-a.png",
+        "category": "Oil",
+        "subCategory": "Type A",
+        "subCategory_Es": "Tipo A",
+        "color": "yellow"
+    },
+    {
+        "_id": { "$oid": "66b4ead3942142771b2dd23e" },
+        "code": "PR-05",
+        "name": "CPO",
+        "name_Es": "Aceite Prensado en Frío",
+        "description": "This cold-pressed oil is obtained by centrifuging the oil-water emulsion generated after the fruit passes through a rasping/puncturing machine while being sprayed with water. This process takes place within a clean and safe environment following sanitary premises.",
+        "description_Es": "Este aceite prensado en frío se obtiene centrifugando la emulsión de aceite y agua generada después de que la fruta pasa a través de una máquina de raspado/punzón mientras se rocía con agua. Este proceso tiene lugar dentro de un entorno limpio y seguro después de locales sanitarios.",
+        "imageUrl": "/assets/img/cpo-b.png",
+        "category": "Oil",
+        "subCategory": "Type B",
+        "subCategory_Es": "Tipo B",
+        "color": "yellow"
+    }
+]
