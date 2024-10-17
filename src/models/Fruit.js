@@ -8,7 +8,6 @@ const fruitSchema = new Schema(
     name_Es: String,
     description_Es: String,
     image: String,
-    topTen: Boolean,
     countries: String,
     category: String
   },
