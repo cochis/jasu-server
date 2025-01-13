@@ -14,7 +14,7 @@ const syncFruits = async () => {
       category: "I",
       countries: "E"
     };
-    const data = await getSheetResponse(ranges, spreadsheetId, 'Fruta');
+    const data = await getSheetResponse(ranges, spreadsheetId, 'Copy of Fruta');
 
     for (let index = 0; index < data[0].length; index++) {
       if(data[0][index] === "#") {

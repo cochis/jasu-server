@@ -5,14 +5,14 @@ module.exports = Object.freeze({
   URL_FRONT: "http://localhost:4200",
   URL_BACK: "http://localhost:3000",
   EMAIL_FROM: "info@jasu.us",
-  EMAIL_ADMIN: "jfdo.gomez.182@gmail.com",
+  EMAIL_ADMIN: "info@jasu.us",
   EMAIL_TITLE: "Jasu 🍍",
   EMAIL_SMTP: {
     port: 465,
     host: "smtp.gmail.com",
     auth: {
-      user: "jfdo.gomez.182@gmail.com",
-      pass: "qgwo wknp xuue jftg",
+      user: "info@jasu.us",
+      pass: "bgob dsqe urqf przd",
     },
     secure: true,
   },

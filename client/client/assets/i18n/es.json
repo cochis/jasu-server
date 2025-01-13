@@ -240,6 +240,9 @@
         "brix": "Brix",
         "priceKilogram": "Precio por kilogramo",
         "pricePound": "Precio por libra",
+        "gallon": "Precio por galón",
+        "kilogram": "Precio por kilogramo",
+        "pound": "Precio por libra",
         "calculate": "CALCULAR"
     },
     "process": {
@@ -249,5 +252,29 @@
         "fruit": "FRUTA",
         "availavility": "DISPONIBILIDAD",
         "price": "PRECIO"
+    },
+    "monthsAbs": {
+        "january": "Ene",
+        "feburary": "Feb",
+        "march": "Mar",
+        "april": "Abr",
+        "may": "May",
+        "june": "Jun",
+        "july": "Jul",
+        "august": "Ago",
+        "september": "Sep",
+        "october": "Oct",
+        "november": "Nov",
+        "december": "Dic"
+    },
+    "packing": {
+        "title": "Embalaje",
+        "drums": "Bidones",
+        "isotank": "Isotanques",
+        "bins": "Contenedores"
+    },
+    "marketPrice": {
+        "title": "Tendencias de los precios de mercado",
+        "button": "¡Vea las tendencias de precios de Jasu! Regístrate aquí"
     }
 }

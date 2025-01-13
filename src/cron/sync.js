@@ -50,7 +50,6 @@ const getSheetResponse = async (ranges, spreadsheetId, sheetName) => {
 
     return data;
   } catch (e) {
-    console.error(e);
   }
 };
 

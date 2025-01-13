@@ -19,6 +19,11 @@ const productSchema = new Schema(
     description_Es: String,
     imageUrl: String,
     spsecUrl: String,
+    topTen: String,
+    volume: Number,
+    price: Number,
+    variety: String,
+    variety_Es: String
   },
   {
     timestamps: true,
