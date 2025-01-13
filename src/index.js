@@ -40,7 +40,7 @@ app.get("/get-data", async (req, res) => {
 app.get('*', function (req, res, next) {
   res.sendFile(path.resolve('client/index.html'))
 })
-app.listen(3000);
-console.log("Server on port", 3000);
+app.listen(3040);
+console.log("Server on port", 3040);
 
 cron.schedule("0 17 * * 5", generateData);
